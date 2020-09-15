@@ -1,4 +1,4 @@
-package cn.itcast.Interface;
+package cn.itcast.Interface.exercise1;
 
 public class Demo02Interface {
     public static void main(String[] args) {

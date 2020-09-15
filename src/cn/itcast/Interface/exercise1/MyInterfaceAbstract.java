@@ -1,4 +1,4 @@
-package cn.itcast.Interface;
+package cn.itcast.Interface.exercise1;
 
 public interface MyInterfaceAbstract {
     public abstract void methodAbs();

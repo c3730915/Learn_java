@@ -1,4 +1,4 @@
-package cn.itcast.Interface;
+package cn.itcast.Interface.exercise1;
 
 public class MyInterfaceAbstractImpl implements MyInterfaceAbstract {
     @Override

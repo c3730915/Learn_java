@@ -1,4 +1,4 @@
-package cn.itcast.Interface;
+package cn.itcast.Interface.exercise1;
 //从java 8开始，接口允许定义默认方法
 //格式为public default 返回值类型 方法名称
 //接口中的默认方法，可以解决接口升级的问题
