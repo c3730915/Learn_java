@@ -5,7 +5,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Exception {
+public class Exception extends Throwable {
     public static void main(String[] args) throws ParseException {
         SimpleDateFormat sdf = new SimpleDateFormat();
         Date date = sdf.parse("1999-0909");
@@ -16,6 +16,9 @@ public class Exception {
         catch (java.lang.Exception e){
 
 
+        }
+        finally {
+            //无论如何都会执行的代码
         }
     }
 }
